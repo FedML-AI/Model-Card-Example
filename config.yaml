@@ -1,0 +1,6 @@
+workspace: "."
+entry_point: "main_entry.py"
+
+bootstrap: |
+  echo "Install some packages..."
+  echo "Install finished!"
